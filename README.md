@@ -9,6 +9,7 @@
 
 —
 설명 :
+
 일본여행에 조금이나마 도움이 되고자하는 간단한 안내 어플을 제작하였습니다.
 기능은 관광지 안내(TravelTable, TravelSelected), 일본 지도(MapSelect), 지하철 노선도(SubwaySelected), 간단 회화 모음(TranslationTable)이 있습니다.
 
